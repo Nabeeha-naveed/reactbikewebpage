@@ -1,0 +1,52 @@
+.header {
+  background-image: url("../../assets/bike-hero.png");
+  background-size: cover;
+  height: 1060px;
+}
+
+.header--navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.header--navbar-icons {
+  display: flex;
+  justify-content: center;
+}
+
+.header--navbar--icons-phone {
+  margin: 40px 50px;
+  background: url("../../assets/phone.svg");
+  background-repeat: no-repeat;
+  width: 25px;
+  height: 25px;
+}
+
+.header--navbar--icons-menu {
+  margin: 40px 50px;
+  background: url("../../assets/menu.svg");
+  background-repeat: no-repeat;
+  width: 25px;
+  height: 25px;
+}
+
+.header--navbar--icons-menu:hover {
+  background-image: url("../../assets/menuOnClick.svg");
+
+}
+
+.header--navbar-logo {
+  padding: 40px;
+}
+
+.header-title {
+  position: absolute;
+  bottom: 0;
+  left: 504px;
+  top: 658px;
+  font-weight: 700;
+  font-size: 80px;
+  line-height: 100%;
+  letter-spacing: -1.5px;
+}
