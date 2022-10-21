@@ -5,12 +5,14 @@
 }
 
 .header--navbar {
+  background-color: transparent;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
 }
 
 .header--navbar-icons {
+  background-color: transparent;
   display: flex;
   justify-content: center;
 }
@@ -37,10 +39,12 @@
 }
 
 .header--navbar-logo {
+  background-color: transparent;
   padding: 40px;
 }
 
 .header-title {
+  background-color: transparent;
   position: absolute;
   bottom: 0;
   left: 504px;
@@ -49,4 +53,22 @@
   font-size: 80px;
   line-height: 100%;
   letter-spacing: -1.5px;
+}
+
+@media (max-width: 744px) {
+  .header {
+    height: 500px;
+    width: 744px;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
+  .header-title {
+    font-size: 54px;
+    top: -10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: 50px;
+    width: 600px;
+  }
 }

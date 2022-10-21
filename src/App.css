@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  color: #ffff;
+  background: #1d1d1d;
+  font-family: "Poppins";
+}
+
+.section-title {
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 100%;
+  text-align: center;
+  letter-spacing: -1.5px;
+}
+
+.mainBikes{
+  display: flex;
+  justify-content: center;
+  gap: 160px;
+}
+
+@media (max-width: 744px) {
+  body{
+    width: 744px;
+  }
+  .mainBikes {
+    flex-direction: column;
+    gap: 30px;
+  }
+}
