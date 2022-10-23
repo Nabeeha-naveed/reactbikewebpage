@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.99d124f0.css",
+    "main.js": "/static/js/main.b8c46dcf.js",
+    "static/media/bike-hero.png": "/static/media/bike-hero.186fa278f02916a81b0b.png",
+    "static/media/footerImg.png": "/static/media/footerImg.aeab4af2478db04f2db3.png",
+    "static/media/bikeFeature6.png": "/static/media/bikeFeature6.a3575063f2eba7cb1440.png",
+    "static/media/bikeFeature1.png": "/static/media/bikeFeature1.661dd1ac9fb43d76f25f.png",
+    "static/media/bikeFeature3.png": "/static/media/bikeFeature3.8ec5a497d6cc07a9a262.png",
+    "static/media/bikeFeature4.png": "/static/media/bikeFeature4.479a2f0454f4e645cd6c.png",
+    "static/media/bike3.png": "/static/media/bike3.a2cb20e990de6906abe5.png",
+    "static/media/bike2.png": "/static/media/bike2.6a5244528ba49b5cf97d.png",
+    "static/media/bike1.png": "/static/media/bike1.35db44593742f61e236b.png",
+    "static/media/bikeFeature5.png": "/static/media/bikeFeature5.c79bc99309f85669cdeb.png",
+    "static/media/bikeFeature2.png": "/static/media/bikeFeature2.c2ae5e954414431d2891.png",
+    "static/media/logo.svg": "/static/media/logo.3092a79e75756750ff4c4a96ff1111cd.svg",
+    "index.html": "/index.html",
+    "static/media/menuOnClick.svg": "/static/media/menuOnClick.ad2bfde624231cfd75b6.svg",
+    "static/media/menu.svg": "/static/media/menu.9e6f720c78b4ebfd3c98.svg",
+    "static/media/phone.svg": "/static/media/phone.238de1cb4ceef1047b97.svg",
+    "main.99d124f0.css.map": "/static/css/main.99d124f0.css.map",
+    "main.b8c46dcf.js.map": "/static/js/main.b8c46dcf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99d124f0.css",
+    "static/js/main.b8c46dcf.js"
+  ]
+}
