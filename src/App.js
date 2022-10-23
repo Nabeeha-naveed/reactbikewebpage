@@ -10,10 +10,10 @@ function App() {
     <div className="App">
       <Hero />
       <Section1 />
-      <h2 class="section-title">Compare Bikes</h2>
+      <h2 className="section-title">Compare Bikes</h2>
       <CompareBikesMain />
       <Details />
-      {/* <Contacts />  causing horizentall scroll*/}
+      <Contacts />  
       <Footer />
     </div>
   );

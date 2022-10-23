@@ -51,12 +51,18 @@
 
 
 @media (max-width: 744px) {
+  .section3--container--infocontainer{
+    margin-left: 66px;
+  }
+
   .section3--container--infocontainer-title{
     font-size: 20px;
+    margin-left: 76px;
   }
   .section3--container--infocontainer-text {
     font-size: 14px;
-    width: 400px;
+    width: 550px;
+    margin-left: 76px;
   }
   .bigImg{
     width: 395px;
@@ -69,5 +75,10 @@
   .section3{
     margin: 0;
     padding: 0;
+  }
+  .section3--container--imgcontainer{
+    display: flex;
+    flex-direction: row;
+    margin-left: 66px;
   }
 }

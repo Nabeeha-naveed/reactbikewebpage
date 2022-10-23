@@ -86,7 +86,10 @@
     height: 56px;
   }
   .section4--container--contactsInfoContainer {
+    margin-right: 40px;
+    margin-left: -20px;
     font-size: 14px;
+    width: 200px;
   }
   .section4--container--formContainer {
     margin: 80px 70px;
